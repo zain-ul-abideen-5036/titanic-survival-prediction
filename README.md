@@ -117,17 +117,17 @@ weighted avg       0.76      0.76      0.76       267
 
 ## Installation
 1. Clone the repository:
-   ```bash
-      git clone https://github.com/zain-ul-abideen-5036/titanic-survival-prediction.git
-      cd titanic-survival-prediction
-   ```
+```bash
+  git clone https://github.com/zain-ul-abideen-5036/titanic-survival-prediction.git
+  cd titanic-survival-prediction
+```
 ---
 
 ## Usage
 1. Clone the repository:
-   ```bash
-    jupyter notebook titanic_naive_bayes.ipynb
-   ```
+```bash
+ jupyter notebook titanic_naive_bayes.ipynb
+```
 2. Main components:
    - Data loading and exploration
    - Data preprocessing pipeline
